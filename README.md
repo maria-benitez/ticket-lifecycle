@@ -1,9 +1,9 @@
-<img width="759" alt="image" src="https://github.com/maria-benitez/ticket-lifecycle/assets/147643771/8bc89952-63ac-4595-a115-bcff16fde297"><p align="center">
+
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This exercise outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
