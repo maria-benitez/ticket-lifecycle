@@ -24,6 +24,7 @@ This exercise outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+Please visit [Post-Installation Configuration](https://github.com/maria-benitez/post-install-config) to view how I got here.
 <p>
 <img width="759" alt="image" src="https://github.com/maria-benitez/ticket-lifecycle/assets/147643771/ab586537-a83e-46e4-971b-abcef22ffa39">
 </p>
